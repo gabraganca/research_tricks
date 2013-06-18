@@ -50,6 +50,12 @@ Script programming
 
 Talk how to use Script programming, specially about python.
 
+You can learn python basics at [CodeAcademy](http://www.codecademy.com/tracks/python). I have tried and it is very nice.
+
+There is a tutorial for non-programmers [here](http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3).
+
+This [link](http://pythonbooks.revolunet.com/) and [this](http://readwrite.com/2011/03/25/python-is-an-increasingly-popu#awesm=~o98NZtqHzwYofe) contains a compilation of free books. 
+
 
 Automation
 ----------
