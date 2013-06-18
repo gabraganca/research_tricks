@@ -1,5 +1,5 @@
-Research Tips
-=============
+Research Tricks
+===============
 
 Research is awesome! But today, due to several reasons, it is lacking some things and making some error during its development.
 
