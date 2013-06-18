@@ -44,12 +44,15 @@ e.g
 * Finding files with RegEx: find path | grep 'add-your-regex-here'
 * Removing files found with previous command: find path | grep 'add-your-regex-here' | xargs rm
 
-Automation
-----------
-
 
 Script programming
 ------------------
 
 Talk how to use Script programming, specially about python.
+
+
+Automation
+----------
+
+How to automate things using python. This is great when you do a miskate and had to run several things again.
 
