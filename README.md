@@ -33,6 +33,9 @@ How to find some pattern on a text.
 
 Bash
 ----
+You are doing your research on Linux, right? No? Well, so you would probably want to skip this section. 
+
+If your are running Linux, you will probably have [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)] as your [Unix shell](http://en.wikipedia.org/wiki/Unix_shell). Some people are afraid of the terminal. Do not. The terminal is one of your most powerful ally. If you know it well and dominate it, what you can do is almost magic. 
 
 Talk about some commands and use of pipe to send the result of one command to another
 
