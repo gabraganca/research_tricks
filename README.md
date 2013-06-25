@@ -3,7 +3,7 @@ Scientific Research Tricks
 
 Research is awesome! But today, due to several reasons, it is lacking some things and making some error during its development.
 
-My objective with this project is to compile some tips and tools to improve how research is done.
+My objective with this project is to gather some tips and tools to improve how research is done.
 
 
 Version Control System
