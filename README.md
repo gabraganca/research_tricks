@@ -66,3 +66,11 @@ Automation
 
 How to automate things using python. This is great when you do a miskate and had to run several things again.
 
+
+Wrong results
+-------------
+
+
+Wrong results are still results. Publish them. 
+
+Talk about [Figshare](http://www.figshare.com).
