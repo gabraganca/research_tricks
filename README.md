@@ -60,6 +60,16 @@ There is a tutorial for non-programmers [here](http://en.wikibooks.org/wiki/Non-
 This [link](http://pythonbooks.revolunet.com/) and [this](http://readwrite.com/2011/03/25/python-is-an-increasingly-popu#awesm=~o98NZtqHzwYofe) contains a compilation of free books. 
 
 
+Good Editor
+-----------
+
+It is very important to have a good editor. 
+
+If you are the nerd-geek-kind-of-awesome guy, you should porbably try VIM or EMACS.
+
+Note to myself: Describe VIM, EMACS, Geany.
+
+
 Unit testing
 ------------
 
