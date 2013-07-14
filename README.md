@@ -152,7 +152,9 @@ Visualize your data is a very important step. I must say, crucial. It is very ha
 Unless you are a statistic ninja, and even that, you would probably use visualization to convince your audience of 
 your findings.
 
-On of the fathers of this field is [Edward Tufte](http://www.edwardtufte.com/tufte/index). 
+On of the fathers of this field is [Edward Tufte](http://www.edwardtufte.com/tufte/index). I have not yet read it, but 
+hirs first book, [The Visual Display of Quantitative Information](http://www.edwardtufte.com/tufte/books_vdqi) 
+is very highly recommended.
 __Write more about him.__
 
 So, how one can visualize his/her data? There are several tools available. You could use a spreadsheet editor, like 
@@ -169,7 +171,10 @@ this will only depend of your coding skill.
 
 There is several good visuzalization toolkits on the wild, like [D3](http://d3js.org/) for javascript,
 and, for python, we have [Matplotlib](http://matplotlib.org/index.html) and 
-[Mayavi](http://code.enthought.com/projects/mayavi/).
+[Mayavi](http://code.enthought.com/projects/mayavi/). If you want to learn D3, the book by 
+[Scott Murray](http://alignedleft.com/about/), 
+_Interactive Data Visualization for the Web_, is now 
+[available online for free](http://chimera.labs.oreilly.com/books/1230000000345/index.html).
 
 Also, [Bret Victor](http://worrydream.com/#!/Bio) is working on a software that will allow to dynamically draw your 
 visualizations. If you want to know more about it, you can check his [talk](http://vimeo.com/66085662) and 
