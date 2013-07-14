@@ -52,7 +52,8 @@ e.g
 * Removing files found with previous command: find path | grep 'add-your-regex-here' | xargs rm
  
 
-Bonus Tip: [Oh my zsh]()
+Bonus Tip: [Bash git prompt](https://github.com/magicmonty/bash-git-prompt) is a resource that gives basic 
+git information of the repository directly on the prompt.
 
 
 Script programming
