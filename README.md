@@ -31,13 +31,13 @@ A VCS ["is the management of changes to documents, computer programs, large web 
 information."] (http://en.wikipedia.org/wiki/Revision_control) With this you can keep track of any change you 
 do on your research and fallback to any point that you want.
 
-One VCS widely used today is [git](http://git-scm.com/). It was created by Linus Torvalds, the same creator 
-of the Linux Operation System. Fun fact: like Linux, Linus named git after himself. Git is British English 
+One VCS widely used today is [`git`](http://git-scm.com/). It was created by Linus Torvalds, the same creator 
+of the Linux Operation System. Fun fact: like Linux, Linus named `git` after himself. Git is British English 
 slang for a stupid or unpleasant person, and Linus said ["I'm an egotistical bastard, and I name all my projects 
 after myself. First 'Linux', now 'git'."](https://git.wiki.kernel.org/index.php/GitFaq#Why_the_.27Git.27_name.3F). 
 Git is free and open source. 
 
-You can try the basics of git [here](http://try.github.io/levels/1/challenges/1) and this 
+You can try the basics of `git` [here](http://try.github.io/levels/1/challenges/1) and this 
 [book](http://git-scm.com/book) can also help.
 
 Backup and Sharing
@@ -53,8 +53,8 @@ But may I suggest something better. Something stronger.
 [Github](https://github.com/about). 
 It ["is a web-based hosting service for software development projects that use the Git revision control 
 system."](https://en.wikipedia.org/wiki/GitHub) You can store all your Git projects on Github and share 
-with you collaborators. You can browse your and others research online on your preferred browser. You can even 
-modify text files online.
+with you collaborators. You can browse your and others research online on your preferred browser. 
+Today you almot not need to know `git` to use it.
 
 Regular expressions
 -------------------
@@ -70,7 +70,7 @@ Useful links:
 
 Bash
 ----
-You are doing your research on Linux, right? No? Well, so you would probably want to skip this section. 
+You are doing your research on Linux, right? No!? Well, so you will probably want to skip this section. 
 
 If your are running Linux, you will probably have [Bash][bash] 
 as your [Unix shell](http://en.wikipedia.org/wiki/Unix_shell). Some people are afraid of the terminal. 
@@ -82,13 +82,13 @@ do is almost magical.
 Talk about some commands and use of pipe to send the result of one command to another
 
 e.g
-* List fileson one folder and send it to a file: `ls path > list_of_files.txt`; 
+* List files on one folder and send it to a file: `ls path > list_of_files.txt`; 
 * Finding files with RegEx: `find path | grep 'add-your-regex-here'`
 * Removing files found with previous command: `find path | grep 'add-your-regex-here' | xargs rm`
  
 
 Bonus Tip: [Bash git prompt](https://github.com/magicmonty/bash-git-prompt) is a resource that gives basic 
-git information of the repository directly on the prompt.
+`git` information of the repository directly on the prompt.
 
 
 Script programming
@@ -126,10 +126,22 @@ Automation
 How to automate things using python. This is great when you do a miskate and had to run several things again.
 
 
-Wrong results
+Negative results
 -------------
 
 
-Wrong results are still results. Publish them. 
+Negative results are still results. Publish them. Why publish it? Just look the following cartoon and I guess you 
+will understand.
 
-Talk about [Figshare](http://www.figshare.com).
+![Negative Data](http://upmic.files.wordpress.com/2013/06/negative-data.png "From the Upturned Microscope")
+
+Got it?
+
+Probably, a journal will not accepted a paper showing negative results. And because of this, enters 
+[Figshare](http://www.figshare.com). 
+This resource ["allows users to upload any file format to be made visualisable in the browser so that figures, 
+datasets, media, papers, posters, presentations and filesets can be disseminated in a way that the current 
+scholarly publishing model does not allow.](http://figshare.com/about)
+Each image, presententation or any other kind of data receives a 
+[DOI](http://en.wikipedia.org/wiki/Digital_object_identifier) that will uniquely identify you data and it will allow 
+others to cite it.
