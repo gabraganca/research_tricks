@@ -31,6 +31,13 @@ Regular expressions
 
 How to find some pattern on a text.
 
+
+Useful links:
+
+* [Debbuggex](http://www.debuggex.com/): nice resource to check regex;
+* [Regex Crossword](http://regexcrossword.com/): practice or learn some regex skills by playing crossword.
+
+
 Bash
 ----
 You are doing your research on Linux, right? No? Well, so you would probably want to skip this section. 
