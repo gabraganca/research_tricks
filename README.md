@@ -129,7 +129,6 @@ How to automate things using python. This is great when you do a miskate and had
 Negative results
 -------------
 
-
 Negative results are still results. Publish them. Why publish it? Just look the following cartoon and I guess you 
 will understand.
 
@@ -145,3 +144,42 @@ scholarly publishing model does not allow.](http://figshare.com/about)
 Each image, presententation or any other kind of data receives a 
 [DOI](http://en.wikipedia.org/wiki/Digital_object_identifier) that will uniquely identify you data and it will allow 
 others to cite it.
+
+Visualization
+-------------
+
+Visualize your data is a very important step. I must say, crucial. It is very hard to obtain any results without it. 
+Unless you are a statistic ninja, and even that, you would probably use visualization to convince your audience of 
+your findings.
+
+On of the fathers of this field is [Edward Tufte](http://www.edwardtufte.com/tufte/index). 
+__Write more about him.__
+
+So, how one can visualize his/her data? There are several tools available. You could use a spreadsheet editor, like 
+[LibreOffice Calc](https://www.libreoffice.org/features/calc/). The resources are limited, but you can get a 
+visualization quickly and it is very good when one does not have any other skils.
+
+One can draw it by hand, or use [GIMP](http://www.gimp.org/) or [Inkscape](http://inkscape.org/), for example. But, 
+for that, it would probably be good to have some artistic skills. And also, if something change on your data, you would 
+probably have to start it from scratch.
+
+Also, one could code some routine to do visualization. The advantage of this method is that probably you will only have 
+to code it once, i.e. the code is data independent. If the data changes, you only have to run it again. Well, achieving 
+this will only depend of your coding skill.
+
+There is several good visuzalization toolkits on the wild, like [D3](http://d3js.org/) for javascript,
+and, for python, we have [Matplotlib](http://matplotlib.org/index.html) and 
+[Mayavi](http://code.enthought.com/projects/mayavi/).
+
+Also, [Bret Victor](http://worrydream.com/#!/Bio) is working on a software that will allow to dynamically draw your 
+visualizations. If you want to know more about it, you can check his [talk](http://vimeo.com/66085662) and 
+[here](http://worrydream.com/DrawingDynamicVisualizationsTalkAddendum/). It is really impressive!
+
+And according to [Nathan Yau](https://twitter.com/flowingdata) from [Flowing Data](http://flowingdata.com/), 
+there is only one way to learn visualization: 
+[work with data](http://flowingdata.com/2013/07/12/getting-started-with-visualization-after-getting-started-with-visualization/)
+
+I also recommend his [first book](http://flowingdata.com/visualize-this/) as a starting point to visualization. He 
+address what type of visuazliation there are, the tools available and all on a very pleasant reading content.
+I have not yet read his [second](http://flowingdata.com/data-points/), but I am very anxious to get a copy. 
+
