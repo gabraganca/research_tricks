@@ -42,14 +42,19 @@ Bash
 ----
 You are doing your research on Linux, right? No? Well, so you would probably want to skip this section. 
 
-If your are running Linux, you will probably have [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)] as your [Unix shell](http://en.wikipedia.org/wiki/Unix_shell). Some people are afraid of the terminal. Do not. The terminal is one of your most powerful ally. If you know it well and dominate it, what you can do is almost magic. 
+If your are running Linux, you will probably have [Bash][bash] 
+as your [Unix shell](http://en.wikipedia.org/wiki/Unix_shell). Some people are afraid of the terminal. 
+Do not. The terminal is one of your most powerful ally. If you know it well and dominate it, what you can 
+do is almost magical. 
+
+[bash]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
 
 Talk about some commands and use of pipe to send the result of one command to another
 
 e.g
-
-* Finding files with RegEx: find path | grep 'add-your-regex-here'
-* Removing files found with previous command: find path | grep 'add-your-regex-here' | xargs rm
+* List fileson one folder and send it to a file: `ls path > list_of_files.txt`; 
+* Finding files with RegEx: `find path | grep 'add-your-regex-here'`
+* Removing files found with previous command: `find path | grep 'add-your-regex-here' | xargs rm`
  
 
 Bonus Tip: [Bash git prompt](https://github.com/magicmonty/bash-git-prompt) is a resource that gives basic 
