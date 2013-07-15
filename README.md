@@ -38,7 +38,9 @@ after myself. First 'Linux', now 'git'."](https://git.wiki.kernel.org/index.php/
 Git is free and open source. 
 
 You can try the basics of `git` [here](http://try.github.io/levels/1/challenges/1) and this 
-[book](http://git-scm.com/book) can also help.
+[book](http://git-scm.com/book) by [Scott Chacon](https://twitter.com/chacon) or this 
+[another book](http://chimera.labs.oreilly.com/books/1230000000561/index.html) by 
+[Richard E. Silverman](http://www.qoxp.net/) can also help.
 
 Backup and Sharing
 ------------------
