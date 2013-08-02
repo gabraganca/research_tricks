@@ -87,6 +87,7 @@ e.g
 * List files on one folder and send it to a file: `ls path > list_of_files.txt`; 
 * Finding files with RegEx: `find path | grep 'add-your-regex-here'`
 * Removing files found with previous command: `find path | grep 'add-your-regex-here' | xargs rm`
+* Convert all figures in a folder from one type to other: `for f in *.jpg; do convert ./"$f" ./"${f%.jpg}.png"; done`
  
 
 Bonus Tip: [Bash git prompt](https://github.com/magicmonty/bash-git-prompt) is a resource that gives basic 
