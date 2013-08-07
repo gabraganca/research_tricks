@@ -128,6 +128,11 @@ Automation
 
 How to automate things using python. This is great when you do a miskate and had to run several things again.
 
+Some links to check:
+
+* [@astrofrog course](https://github.com/astrofrog/py4sci)
+* [@jrjohansson tutorials](https://github.com/jrjohansson/scientific-python-lectures)
+
 
 Negative results
 -------------
