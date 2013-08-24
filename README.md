@@ -84,9 +84,10 @@ do is almost magical.
 Talk about some commands and use of pipe to send the result of one command to another
 
 e.g
-* List files on one folder and send it to a file: `ls path > list_of_files.txt`; 
-* Finding files with RegEx: `find path | grep 'add-your-regex-here'`
-* Removing files found with previous command: `find path | grep 'add-your-regex-here' | xargs rm`
+* List files on one folder and send it to a file: `ls path/to/file > list_of_files.txt`; 
+* Finding files with RegEx: `find path/to/file | grep 'add-your-regex-here'`
+* Finding patterns inside files with RegEx: `find path/to/file | xargs grep 'add-your-regex-here'`
+* Removing files found with previous command: `find path/to/file | grep 'add-your-regex-here' | xargs rm`
 * Convert all figures in a folder from one type to other: `for f in *.jpg; do convert ./"$f" ./"${f%.jpg}.png"; done`
  
 
