@@ -110,6 +110,26 @@ This [link](http://pythonbooks.revolunet.com/) and
 [this](http://readwrite.com/2011/03/25/python-is-an-increasingly-popu#awesm=~o98NZtqHzwYofe) contains a compilation 
 of free books. 
 
+If you want to know which python modules/packages are installed in your system, you just have to type in your shell:
+
+~~~
+pip freeze
+~~~
+
+And of course, this assumes that you have [`pip`](https://pypi.python.org/pypi/pip) installed in your system.
+
+
+Installing python packages on your system could result on some headache. For example, I stayed on afternoon trying 
+to figure it out why my package was not running after I reinstalled. The reason was that I was getting conflicts between 
+the new and old version. The solution was to use [virtualenv](https://pypi.python.org/pypi/virtualenv) and 
+[`virtualenvwrapper`](http://virtualenvwrapper.readthedocs.org/en/latest/index.html).
+
+As the name says `virtualenv` creates a python virtual environment. This allows the user to install any python package 
+without worryng in messing the system packages. Also, the user can create any number of virtual environments, for example, 
+one for each project.
+
+
+Write more about this.
 
 Good Editor
 -----------
