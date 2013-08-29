@@ -106,6 +106,9 @@ nice.
 
 There is a tutorial for non-programmers [here](http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3).
 
+There is also the now famous [Learn Python the Hard Way](http://learnpythonthehardway.org/). It seems that it focus 
+on exercise and repetion as learning tools.
+
 This [link](http://pythonbooks.revolunet.com/) and 
 [this](http://readwrite.com/2011/03/25/python-is-an-increasingly-popu#awesm=~o98NZtqHzwYofe) contains a compilation 
 of free books. 
