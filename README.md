@@ -105,6 +105,8 @@ Talk how to use Script programming, specially about python.
 You can learn python basics at [CodeAcademy](http://www.codecademy.com/tracks/python). I have tried and it is very 
 nice.
 
+Another interactive way to lear python is the [learnpython.org](http://www.learnpython.org/). Give it a try.
+
 There is a tutorial for non-programmers [here](http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3).
 
 There is also the now famous [Learn Python the Hard Way](http://learnpythonthehardway.org/). It seems that it focus 
