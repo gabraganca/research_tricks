@@ -193,9 +193,10 @@ hirs first book, [The Visual Display of Quantitative Information](http://www.edw
 is very highly recommended.
 __Write more about him.__
 
-So, how one can visualize his/her data? There are several tools available. You could use a spreadsheet editor, like 
+So, how one can visualize data? There are several tools available. You could use a spreadsheet editor, like 
 [LibreOffice Calc](https://www.libreoffice.org/features/calc/). The resources are limited, but you can get a 
-visualization quickly and it is very good when one does not have any other skils.
+visualization quickly and it is very good when one does not have any other skils. And if you want to make better plots 
+with it, you will probably want to try [RAW](http://raw.densitydesign.org/).
 
 One can draw it by hand, or use [GIMP](http://www.gimp.org/) or [Inkscape](http://inkscape.org/), for example. But, 
 for that, it would probably be good to have some artistic skills. And also, if something change on your data, you would 
