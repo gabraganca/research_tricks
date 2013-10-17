@@ -205,12 +205,18 @@ Also, one could code some routine to do visualization. The advantage of this met
 to code it once, i.e. the code is data independent. If the data changes, you only have to run it again. Well, achieving 
 this will only depend of your coding skill.
 
-There is several good visuzalization toolkits on the wild, like [D3](http://d3js.org/) for javascript,
-and, for python, we have [Matplotlib](http://matplotlib.org/index.html) and 
-[Mayavi](http://code.enthought.com/projects/mayavi/). If you want to learn D3, the book by 
+There is several good visuzalization toolkits on the wild, like [`D3`](http://d3js.org/) for javascript.
+If you want to learn D3, the book by 
 [Scott Murray](http://alignedleft.com/about/), 
 _Interactive Data Visualization for the Web_, is now 
-[available online for free](http://chimera.labs.oreilly.com/books/1230000000345/index.html).
+[available online for free](http://chimera.labs.oreilly.com/books/1230000000345/index.html). 
+And, for python, we have [`Matplotlib`](http://matplotlib.org/index.html), 
+[`Mayavi`](http://code.enthought.com/projects/mayavi/) 
+and [`ggplot`](https://github.com/yhat/ggplot?source=cc#ggplot-from-yhat).
+[`Ggplot2`](http://ggplot2.org/) is a very well-known plotting system for R 
+and `ggplot` is specially good 
+for those that are learnig python but have a solid background in R.
+And if you want the `D3` awesomeness in your python code, try [Vincent](https://github.com/wrobstory/vincent).
 
 Also, [Bret Victor](http://worrydream.com/#!/Bio) is working on a software that will allow to dynamically draw your 
 visualizations. If you want to know more about it, you can check his [talk](http://vimeo.com/66085662) and 
