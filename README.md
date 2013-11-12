@@ -205,7 +205,7 @@ Also, one could code some routine to do visualization. The advantage of this met
 to code it once, i.e. the code is data independent. If the data changes, you only have to run it again. Well, achieving 
 this will only depend of your coding skill.
 
-There is several good visuzalization toolkits on the wild, like [`D3`](http://d3js.org/) for javascript.
+There are several good visuzalization toolkits on the wild, like [`D3`](http://d3js.org/) for javascript.
 If you want to learn D3, the book by 
 [Scott Murray](http://alignedleft.com/about/), 
 _Interactive Data Visualization for the Web_, is now 
