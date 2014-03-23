@@ -132,8 +132,6 @@ on the prompt.
 Script programming
 ------------------
 
-Talk how to use Script programming, specially about python.
-
 You can learn python basics at
 [CodeAcademy](http://www.codecademy.com/tracks/python). I have tried and it is
 very nice.
@@ -177,9 +175,6 @@ the user to install any python package without worryng in messing the system
 packages. also, the user can create any number of virtual environments,
 for example, one for each project.
 
-
-write more about this.
-
 Good editor
 -----------
 
@@ -187,13 +182,6 @@ it is very important to have a good editor.
 
 if you are the nerd-geek-kind-of-awesome guy, you should probably try
 vim or emacs.
-
-note to myself: describe vim, emacs, geany.
-
-
-Unit testing
-------------
-
 
 Automation
 ----------
@@ -241,9 +229,6 @@ Display of Quantitative Information][Tufte_book], is very highly recommended.
 
 [Tufte]: http://www.edwardtufte.com/tufte/index
 [Tufte_book]: http://www.edwardtufte.com/tufte/books_vdqi
-
-
-__Write more about him.__
 
 So, how one can visualize data? There are several tools available. You could
 use a spreadsheet editor, like [LibreOffice Calc][OOffice]. The resources are
