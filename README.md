@@ -92,19 +92,21 @@ Useful links:
   skills by playing crossword.
 
 
-Bash
-----
+Shell
+-----
 
-You are doing your research on Linux, right? No!? Well, so you will probably
-want to skip this section.
+["A Unix shell is a command-line interpreter or shell that provides a 
+traditional user interface for the Unix operating system and for 
+Unix-like systems."][shell]. Some people are afraid of the 
+shell. Do not. The shell is one of your most powerful ally. If you know it 
+well and dominate it, what you can do is almost magic.
 
-If your are running Linux, you will probably have [Bash][bash] as your
-[Unix shell][shell]. Some people are afraid of the shell. Do not. The shell is
-one of your most powerful ally. If you know it well and dominate it, what you
-can do is almost magic.
+If your are running Linux, you will probably have [Bash][bash] as your 
+[Unix shell][shell]. If you are running Windows you can try [Cygwin][cygwin].
 
-[bash]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
-[shell]: http://en.wikipedia.org/wiki/Unix_shell
+I highly recommend seeing the [Software Carpentry][swcarpentry] tutorial 
+[track on the Shell][shell_track]. It is very good and it will give you all the basics 
+on the Shell.
 
 For example, below I listed some commands that can speed up your workflow.
 
@@ -127,6 +129,13 @@ For example, below I listed some commands that can speed up your workflow.
 Bonus Tip: [Bash git prompt](https://github.com/magicmonty/bash-git-prompt)
 is a resource that gives basic `git` information of the repository directly
 on the prompt.
+
+[bash]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
+[shell]: http://en.wikipedia.org/wiki/Unix_shell
+[cygwin]: http://www.cygwin.com/
+[swcarpentry]: http://software-carpentry.org/index.html
+[shell_track]: http://software-carpentry.org/v4/shell/index.html
+
 
 
 Script programming
